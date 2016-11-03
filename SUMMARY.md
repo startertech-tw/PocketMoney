@@ -1,4 +1,3 @@
 # Summary
 
-* 商品篇
-
+* [商品篇](chapter1/intro.md)
